@@ -1,0 +1,14 @@
+Edit Log for LQ4_RedHotBTR_799heads_rev0A.bin created by TunerPro.
+**************************************************************************
+03/25/2024 17:23:18  Scalar:    B6213 - Adaptive Spark Min MAP changed from 95 MAP (kPa) (0x1300) to 50 MAP (kPa) (0x0A00).
+03/25/2024 17:23:30  Scalar:    B6215 - Adaptive Spark Max RPM changed from 1400 RPM (0x1C00) to 7200 RPM (0x9000).
+03/25/2024 17:23:36  Scalar:    B6216 - Adaptive Spark Min Coolant Temp changed from 220 Deg F (ECT) (0x0A72) to 131 Deg F (ECT) (0x0580).
+03/25/2024 17:23:43  Scalar:    B6217 - Adaptive Spark Min Intake Air Temp (IAT) changed from 50 Deg F (IAT) (0x0100) to -39 Deg F (IAT) (0xFC0E).
+03/25/2024 17:23:50  Scalar:    B6217 - Adaptive Spark Min Intake Air Temp (IAT) changed from -39 Deg F (IAT) (0xFC0E) to -39 Deg F (IAT) (0xFC0E).
+03/25/2024 17:24:49  Scalar:    B3331 - Fuel Re-Enable in P/N changed from 6680 RPM (0x859A) to 6980 RPM (0x8B9A).
+03/25/2024 17:24:50  Scalar:    B3330 - Fuel Cut-Off in P/N changed from 6700 RPM (0x8600) to 7000 RPM (0x8C00).
+03/25/2024 17:25:37  Table:     B5401 - ETC Controlled RPM Limit changed.
+03/25/2024 17:27:19  Flag:      B1301 - EGR System Enable changed from Not Set to Set..
+03/31/2024 19:51:50  Scalar:    B3330 - Fuel Cut-Off in P/N changed from 6700 RPM (0x8600) to 7040 RPM (0x8CCD).
+03/31/2024 19:52:39  Scalar:    B3331 - Fuel Re-Enable in P/N changed from 6680 RPM (0x859A) to 7000 RPM (0x8C00).
+03/31/2024 19:52:42  Scalar:    B3330 - Fuel Cut-Off in P/N changed from 7040 RPM (0x8CCD) to 7020 RPM (0x8C66).
